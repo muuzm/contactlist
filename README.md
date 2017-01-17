@@ -1,2 +1,7 @@
-This is a contact list app created by following YouTube videos on Learn to Code Tutorials.
+Basic Contact List App - Mouz Asfaw 
+Created by following videos on "Learn Coding Tutorials" YouTube channel by Michael
+https://www.youtube.com/watch?v=kHV7gOHvNdk&list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U&index=1
+
+Code updated to reflect new version of Angular JS
+
 
